@@ -33,4 +33,4 @@
 
 **Demo Videos** 
 
-![Feed](feed-gif.gif)
+![Feed](feedgif2.gif)
