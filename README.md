@@ -33,4 +33,20 @@
 
 **Demo Videos** 
 
-![Feed](feedgif2.gif) ![Discover1](Discovergif.gif) ![](discovergif2.gif) ![](MessagingGif1.gif) ![](MessagingGif2.gif)
+## Feed
+
+![Feed](feedgif2.gif) 
+
+## Discover Page
+
+![Discover1](Discovergif.gif) 
+![](discovergif2.gif) 
+
+## Messaging 
+
+![](MessagingGif1.gif)
+![](MessagingGif2.gif)
+
+## Profile
+
+![](ProfileGif.gif)
