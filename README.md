@@ -1,4 +1,4 @@
-# Handoff - College Marketplace App
+# Handoff 🤝 - College Marketplace App
 
 ### Handoff is an app I designed and developed from the ground up using firebase and swift. It allows students to buy and sell items with people in their school. The entire application was built programmatically, and below is a technical description of how I developed the application and what cool features I built
 
