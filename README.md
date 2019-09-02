@@ -30,6 +30,7 @@
 4. A a real time chat feature that allows users to direct message others users within their school
 5. A purchase method that works through QR codes. Each item is assigned a unique QR code that must be scanned by the buyer of that item in order for the transaction to go through.
 6. An item posting page that allows users to either take a picture of an item or select up to 5 items from their camera roll.
+7. A profile where you can see a user's currently available items, what they have sold, and their reviews.
 
 **Demo Videos** 
 
