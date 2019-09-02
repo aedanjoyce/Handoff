@@ -33,4 +33,4 @@
 
 **Demo Videos** 
 
-![Feed](feedgif2.gif)
+![Feed](feedgif2.gif) ![Discover1](Discovergif.gif) ![](discovergif2.gif) ![](MessagingGif1.gif) ![](MessagingGif2.gif)
