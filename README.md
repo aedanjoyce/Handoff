@@ -32,3 +32,5 @@
 6. An item posting page that allows users to either take a picture of an item or select up to 5 items from their camera roll.
 
 **Demo Videos** 
+
+![Feed](feed-gif.gif)
