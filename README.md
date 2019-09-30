@@ -2,7 +2,7 @@
 
 ### Handoff is an app I designed and developed from the ground up using firebase and swift. It allows students to buy and sell items with people in their school. The entire application was built programmatically, and below is a technical description of how I developed the application and what cool features I built
 
-###### If you would like to see the live application, please send me an email [here](aedanjjoyce@gmail.com) for a TestFlight invite. The application is awaiting to be submitted to the app store. So for now, the app lives on TestFlight. 
+###### If you would like to see the live application, please send me an email at aedanjjoyce@gmail.com for a TestFlight invite. The application is awaiting to be submitted to the app store. So for now, the app lives on TestFlight. 
 
 **Data Structures, Fundamental Algorithms, and Design Techniques Used**
 
